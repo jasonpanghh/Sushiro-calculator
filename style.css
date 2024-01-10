@@ -1,0 +1,48 @@
+.slider {
+-webkit-appearance: none;
+width: 100%;
+height: 1em;
+border-radius: 1em;
+background: #d3d3d3;
+outline: none;
+}
+
+#price12::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 3em;
+height: 3em;
+border-radius: 50%;
+background: #A80A1C;
+cursor: pointer;
+}
+
+#price17::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 3em;
+height: 3em;
+border-radius: 50%;
+background: #B5C2CC;
+cursor: pointer;
+}
+
+#price22::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 3em;
+height: 3em;
+border-radius: 50%;
+background: #D9B061;
+cursor: pointer;
+}
+
+#price27::-webkit-slider-thumb {
+-webkit-appearance: none;
+appearance: none;
+width: 3em;
+height: 3em;
+border-radius: 50%;
+background: #1A1917;
+cursor: pointer;
+}
